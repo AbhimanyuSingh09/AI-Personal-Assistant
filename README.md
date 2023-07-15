@@ -1,1 +1,1 @@
-# AI-Personal-Assistant
+AI-Personal-Assistant using OpenAI api key.Can be customised to do multiple tasks and is highly customisable. Has ability to remember conversation and can be operated through speech as well as text.
